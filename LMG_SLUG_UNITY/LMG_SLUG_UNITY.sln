@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3939EC82-B8FB-214F-172B-02BF8D4A83F6}") = "LMG_SLUG_UNITY", "Assembly-CSharp.csproj", "{5A5E2767-08A7-2091-7284-E1EDE2D3836E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5E2767-08A7-2091-7284-E1EDE2D3836E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5E2767-08A7-2091-7284-E1EDE2D3836E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5E2767-08A7-2091-7284-E1EDE2D3836E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5E2767-08A7-2091-7284-E1EDE2D3836E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
